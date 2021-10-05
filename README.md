@@ -4,3 +4,5 @@ This is a very simple counter application that allows you to increase the counte
 
 ![This is what the page looks like](images/counter_app_screenshot.png)
 ![This is the application in action](images/counter_app_screenshot2.png)
+
+The Application was made completing Scrimba's first application in the JavaScript course.
